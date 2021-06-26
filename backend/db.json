@@ -1,0 +1,54 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Minha Mãe é uma Peça",
+      "genero": "Comédia"
+    },
+    {
+      "id": 2,
+      "titulo": "Annabelle",
+      "genero": "Terror"
+    },
+    {
+      "id": 3,
+      "titulo": "O Mistério da Libélula",
+      "genero": "Suspense"
+    },
+    {
+      "titulo": "Legalmente Loira",
+      "genero": "Comédia",
+      "id": 4
+    },
+    {
+      "titulo": "Diário de uma Paixão",
+      "genero": "Romance",
+      "id": 5
+    },
+    {
+      "titulo": "A Hora do Pesadelo",
+      "genero": "Terror",
+      "id": 6
+    },
+    {
+      "titulo": "Piratas do Caribe",
+      "genero": "Comédia",
+      "id": 7
+    },
+    {
+      "titulo": "Amor sem Fim",
+      "genero": "Romance",
+      "id": 8
+    },
+    {
+      "titulo": "Ps Eu Te Amo",
+      "genero": "Romance",
+      "id": 9
+    },
+    {
+      "titulo": "Os Vingadores",
+      "genero": "Ação",
+      "id": 10
+    }
+  ]
+}

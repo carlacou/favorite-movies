@@ -1,0 +1,21 @@
+<mat-card>
+  <mat-card-title>Alterar Filme</mat-card-title>
+  <form> 
+    <mat-form-field>
+      <input matInput placeholder="Título" [(ngModel)]="filmeCadastro.titulo" name="name">
+      
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Gênero" [(ngModel)]="filmeCadastro.genero" name="name">
+    </mat-form-field>
+  </form>
+
+  <button mat-raised-button id="update" (click)="updateCadastro()">
+    Atualizar
+  </button>
+
+
+  <button mat-raised-button (click)="cancel()" color="warn">
+    Cancelar
+  </button>
+</mat-card>
