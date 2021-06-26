@@ -8,6 +8,7 @@ Todo o código precisa estar no GitHub;
 Criar no mínimo 3 componentes que interajam na mesma páginas com rotas;
 
 Alguns componentes criados:
+
 NavComponent;
 CreateCadastoFilmeComponent;
 FooterComponent;
